@@ -1,0 +1,15 @@
+ .footer-icons {
+    display: flex;
+    justify-content: center;
+} 
+.footer-github {
+    font-size: 3em;
+}
+.footer-linkedIn {
+    font-size: 3em;
+    padding-left: 40px
+}
+.footer-StackOverflow {
+    font-size: 3em;
+    padding-left: 40px;
+}

@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
+.navbar-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  color: inherit;
+  text-decoration: inherit;
+  text-transform: uppercse;
+  outline: none;
+}
+a {
+  color: rgba(7, 82, 2, 0.974);
+  padding: 8px;
+}
+.active {
+  color: rgb(106, 159, 237);
+}
+a:hover {
+  color: blue;
+}
